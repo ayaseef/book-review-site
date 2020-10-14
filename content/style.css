@@ -1,0 +1,19 @@
+header{border-style: groove; background-color: #e76f51}
+
+footer{border-style: groove; background-color: #f4a261}
+
+article{background-color: #e9c46a}
+
+body{font-family: 'Gill Sans';}
+
+
+h1{color: #264653}
+h2{color: #2a9d8f}
+h3{color: #e9c46a}
+h4{font-style: italic; color: #f4a261}
+h5{color: #e76f51}
+
+a:hover { color: #bbff00 }
+a{color: steelblue}
+
+ul{list-style: none}
